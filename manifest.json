@@ -1,0 +1,21 @@
+{
+  "name": "IyyappaPoojai Dec2025",
+  "short_name": "IyyappaPoojai",
+  "description": "Divine Collection App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8B4513",
+  "theme_color": "#8B4513",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/gmssvaishnavi/Poojai/main/Images/Iyyapa1.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/gmssvaishnavi/Poojai/main/Images/Iyyapa1.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
