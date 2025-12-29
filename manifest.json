@@ -1,8 +1,9 @@
 {
   "name": "IyyappaPoojai Dec2025",
   "short_name": "IyyappaPoojai",
-  "description": "Divine Collection App",
-  "start_url": "/Poojai/",
+  "description": "IyyappaPoojai Dec2025 Chennai",
+  "start_url": "/Poojai/index.html",
+   "scope": "/Poojai/",
   "display": "standalone",
   "background_color": "#8B4513",
   "theme_color": "#8B4513",
